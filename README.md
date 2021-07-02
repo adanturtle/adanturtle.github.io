@@ -1,5 +1,3 @@
-![ag-logo-600](https://user-images.githubusercontent.com/62565147/124217445-f93b0180-dabd-11eb-8714-6e6bf3a17ceb.jpeg)
-
 ## Adan Garcia
 Product Design • Web Design UI • Graphic Design • Advertising • Illustration
 
