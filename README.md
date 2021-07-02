@@ -20,7 +20,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Brochure Design, Print
 
-- National Newspaper Advertisement, Print (New York Times, USA Today)
+- National Newspaper Advertising, Print (New York Times, USA Today)
 
 ### Contact
 
