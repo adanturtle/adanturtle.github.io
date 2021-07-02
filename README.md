@@ -1,7 +1,7 @@
+![ag-logo-600](https://user-images.githubusercontent.com/62565147/124217445-f93b0180-dabd-11eb-8714-6e6bf3a17ceb.jpeg)
+
 ## Adan Garcia
 Product Design • Web Design UI • Graphic Design • Advertising • Illustration
-
-![ag-logo](https://user-images.githubusercontent.com/62565147/124216990-04416200-dabd-11eb-98ba-cc8f60d5aa42.jpeg)
 
 **Designer for Hire:** Open to all creative fields. Experience includes small solo work to large year-round projects in a team environment. 
 
