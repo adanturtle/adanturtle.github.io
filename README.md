@@ -24,5 +24,6 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 ### Contact
 
+Adan Garcia Design, LLC
 Email: [adanapplemail@me.com](adanapplemail@me.com)
 
