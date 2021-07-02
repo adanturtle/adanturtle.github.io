@@ -1,6 +1,5 @@
 ## Adan Garcia
-
-You can use the [editor on GitHub](https://github.com/adanturtle/adanturtle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Product Design • Web Design • Graphic Design • Advertising • Illustration
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
