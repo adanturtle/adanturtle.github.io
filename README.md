@@ -2,7 +2,7 @@
 
 Product Design • Web Design • Graphic Design • Advertising • Illustration
 
-**Designer for Hire:** Open to all creative fields. Range of experience includes small solo work to large year-round projects in a team environment. Remote work: Deliverables are presented and reviewed online using screen-sharing program.
+**Designer for Hire:** Open to all creative fields. Range of experience includes small solo work to large year-round projects in a team environment. Remote work: Deliverables are presented and reviewed online using screen sharing program.
 
 ### Current Work
 
