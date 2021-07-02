@@ -17,6 +17,8 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Social Media, Web Graphics
 
+- Brochure Design, Print
+
 - National Newspaper Advertisement, Print - NYT, USA Today
 
 ### Contact
