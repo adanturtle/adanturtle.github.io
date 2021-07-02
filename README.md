@@ -1,7 +1,7 @@
 ## Adan Garcia
 Product Design • Web Design UI • Graphic Design • Advertising • Illustration
 
-[ag-logo.pdf](https://github.com/adanturtle/adanturtle.github.io/files/6751908/ag-logo.pdf)
+![ag-logo](https://user-images.githubusercontent.com/62565147/124216990-04416200-dabd-11eb-98ba-cc8f60d5aa42.jpeg)
 
 **Designer for Hire:** Open to all creative fields. Experience includes small solo work to large year-round projects in a team environment. 
 
