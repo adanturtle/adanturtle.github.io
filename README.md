@@ -12,7 +12,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Logo Design - Sketching and Digital
 
-- Magazine Advertising, Print: (American Airlines (American Way), Food & Wine, Martha Stewart Living, Smithsonian, ...)
+- Magazine Advertising, Print: (American Way, Food & Wine, Martha Stewart Living, Smithsonian, ...)
 
 - Online Magazine Advertising, Web Graphics
 
@@ -20,7 +20,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Brochure Design, Print
 
-- National Newspaper Advertisement, Print (New york Times, USA Today)
+- National Newspaper Advertisement, Print (New York Times, USA Today)
 
 ### Contact
 
