@@ -7,12 +7,11 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Website UX/UI Design - Figma Software
 
-- Video Editing and Graphics - Export to Web
+- Video Editing and Graphics for Web and Television (Wheel of Fortune, Americas Funniest Videos)
 
 - Logo Design - Sketching and Digital
 
-- Magazine Advertising, Print: 1/8, 1/4, 1/3, full page, spread
-- - (American Airlines, Food & Wine, Martha Stewart, Smithsonian, ...)
+- Magazine Advertising, Print: 1/8, 1/4, 1/3, full page (American Airlines, Food & Wine, Martha Stewart, Smithsonian, ...)
 
 - Magazine Advertising, Web Graphics
 
@@ -20,8 +19,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Brochure Design, Print
 
-- National Newspaper Advertisement, Print: High Frequency 
-- - (NYT, USA Today)
+- National Newspaper Advertisement, Print (NYT, USA Today)
 
 ### Contact
 
