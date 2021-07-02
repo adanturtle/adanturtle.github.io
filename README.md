@@ -13,7 +13,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Magazine Advertising, Print: 1/8, 1/4, 1/3, full page (American Airlines, Food & Wine, Martha Stewart, Smithsonian, ...)
 
-- Magazine Advertising, Web Graphics
+- Online Magazine Advertising, Web Graphics
 
 - Social Media, Web Graphics
 
