@@ -8,7 +8,7 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Website UX/UI Design - Figma Software
 
-- Video Editing and Graphics for Web and Television Advertising (Wheel of Fortune, Americas Funniest Videos)
+- Video Editing and Video Graphics for Web and Television Advertising (Wheel of Fortune, Americas Funniest Videos)
 
 - Logo Design - Sketching and Digital
 
