@@ -1,7 +1,7 @@
 ## Adan Garcia
 Product Design • Web Design • Graphic Design • Advertising • Illustration
 
-**Designer for hire:** Open to all creative fields. Work experience includes small solo projects to large year-round projects in a collaborative team environment. 
+**Designer for hire:** Open to all creative fields. Work experience includes small solo projects to large year-round projects in a team environment. 
 
 ### Markdown
 
