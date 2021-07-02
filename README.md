@@ -1,26 +1,12 @@
 ## Adan Garcia
 Product Design • Web Design • Graphic Design • Advertising • Illustration
 
-**Designer for hire:** Open to all creative fields. Work experience includes small solo projects to large year-round projects in a team environment. 
+**Designer for Hire:** Open to all creative fields. Experience includes small solo work to large year-round projects in a team environment. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Recent Work:**
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Web Design
 
 [Link](url) and ![Image](src)
 ```
