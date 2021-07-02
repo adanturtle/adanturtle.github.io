@@ -11,7 +11,8 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Logo Design - Sketching and Digital
 
-- Magazine Advertising, Print: 1/8, 1/4, 1/3, full page, spread (American Airlines, Food & Wine, Martha Stewart, Smithsonian, ...)
+- Magazine Advertising, Print: 1/8, 1/4, 1/3, full page, spread
+- - (American Airlines, Food & Wine, Martha Stewart, Smithsonian, ...)
 
 - Magazine Advertising, Web Graphics
 
@@ -19,7 +20,8 @@ Product Design • Web Design • Graphic Design • Advertising • Illustratio
 
 - Brochure Design, Print
 
-- National Newspaper Advertisement, Print: High Frequency (NYT, USA Today)
+- National Newspaper Advertisement, Print: High Frequency 
+- - (NYT, USA Today)
 
 ### Contact
 
