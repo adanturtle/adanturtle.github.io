@@ -1,7 +1,8 @@
 ## Adan Garcia
 Product Design • Web Design • Graphic Design • Advertising • Illustration
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Designer for hire: Open to all creative fields and projects. Work experience ranges from solo small projects to large year-round projects with 
+multiple-milestones in a team environment. 
 
 ### Markdown
 
